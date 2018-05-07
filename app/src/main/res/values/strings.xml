@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Krave Restaurant</string>
+    <string name="restaurant_name_first">KRAVE</string>
+    <string name="restaurant_name_second">RESTAURANT</string>
+    <string name="restaurant_description">MODERN CHIĆ DINING</string>
+    <string name="restaurant_address">Tarouba Plaza, Marabella, Trinidad, W.I.</string>
+    <string name="restaurant_website">http://www.krave.tt</string>
+    <string name="restaurant_phone">1-(868)-658-5728</string>
+    <string name="restaurant_email">reservations@kravedining.com</string>
+    <string name="restaurant_hours">M - Closed\nT,W,Th,F - Lunch 11am to 3pm;\n\t\t\t\t\t\tDinner 5pm to 10:15pm\nSat - Dinner Only 5pm to 10:15pm\nSun - Brunch Only 10:30am to 3pm</string>
+</resources>
